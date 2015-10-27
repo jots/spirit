@@ -32,7 +32,7 @@ defmodule Spirit.Mixfile do
     [
       {:cowboy, ">= 1.0"},
       {:plug, ">= 0.13"},
-      {:poison, ">= 1.4"}
+      {:poison, "~> 1.4"}
     ]
   end
 
